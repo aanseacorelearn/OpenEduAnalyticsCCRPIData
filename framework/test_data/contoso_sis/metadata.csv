@@ -1,0 +1,89 @@
+Entity Name,Attribute Name,Attribute Data Type,Pseudonymization
+cohortGraduRateStDistSchoolSubgrp,,,
+,id,string,hash
+,Reporting Level,string,no-op
+,System ID,string,no-op
+,School ID,string,no-op
+,System Name,string,no-op
+,School Name,string,no-op
+,Reporting Label,string,no-op
+,Graduation Class Size,string,no-op
+,Total Graduated,string,no-op
+,Graduation Rate,string,no-op
+contentMasteryBySubgroup,,,
+,id,string,hash
+,School Year,integer,partition-by
+,System ID,string,no-op
+,System Name,string,no-op
+,School ID,string,no-op
+,School Name,string,no-op
+,Grade Configuration,string,no-op
+,Grade Cluster,string,no-op
+,Reporting Label,string,no-op
+,Content Area,string,no-op
+,Participation Rate,string,no-op
+,Learner Level 1,string,no-op
+,Learner Level 2,string,no-op
+,Learner Level 3,string,no-op
+,Learner Level 4,string,no-op
+,Indicator Score,string,no-op
+demographics,,,
+,id,string,hash
+,School Year,integer,partition-by
+,System ID,string,no-op
+,System Name,string,no-op
+,School ID,string,no-op
+,School Name,string,no-op
+,Grade Configuration,string,no-op
+,Grade Cluster,string,no-op
+,Students Enrolled,string,no-op
+,Number of Schools,string,no-op
+,Title Status,string,no-op
+,Asian Pacific Islander,string,no-op
+,American Indian Alaskan,string,no-op
+,Black,string,no-op
+,Hispanic,string,no-op
+,Multi Racial,string,no-op
+,White,string,no-op
+,Economically Disadvantaged,string,no-op
+,English Learners,string,no-op
+,Students with Disability,string,no-op
+graduationRatesbySubgroup,,,
+,id,string,hash
+,Reporting Level,string,no-op
+,Reporting Level,string,no-op
+,System ID,string,no-op
+,School ID,string,no-op
+,System Name,string,no-op
+,School Name,string,no-op
+,Reporting Label,string,no-op
+,Graduation Rate,string,no-op
+progressTowardsEngLangProfibySubgr,,,
+,id,string,hash
+,School Year,integer,partition-by
+,System ID,string,no-op
+,System Name,string,no-op
+,School ID,string,no-op
+,School Name,string,no-op
+,Grade Configuration,string,no-op
+,Grade Cluster,string,no-op
+,Reporting Label,string,no-op
+,No Positive Movement,string,no-op
+,Moved Less Than One Band,string,no-op
+,Moved One Band,string,no-op
+,Moved More Than One Band,string,no-op
+,Progress Towards ELP Rate,string,no-op
+readinessIndicatorsbySubgroup,,,
+,id,string,hash
+,School Year,integer,partition-by
+,System ID,string,no-op
+,System Name,string,no-op
+,School ID,string,no-op
+,School Name,string,no-op
+,Grade Configuration,string,no-op
+,Grade Cluster,string,no-op
+,Reporting Label,string,no-op
+,Indicator,string,no-op
+,Sub Indicator,string,no-op
+,Unbenchmarked Rate,string,no-op
+,Indicator Score,string,no-op

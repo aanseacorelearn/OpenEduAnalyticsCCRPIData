@@ -1,0 +1,179 @@
+{
+	"name": "1_land_contoso_v0p2",
+	"properties": {
+		"activities": [
+			{
+				"name": "land_contentMasteryBySubgroup",
+				"type": "ExecutePipeline",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "land_data_from_URL",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/contentMasteryBySubgroup/part1.csv",
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"sinkPath": "contoso/v0.1/contentMasteryBySubgroup",
+						"sinkFilename": {
+							"value": "@pipeline().parameters.defaultFilename",
+							"type": "Expression"
+						},
+						"batchType": "additive"
+					}
+				}
+			},
+			{
+				"name": "land_readinessIndicatorsbySubgroup",
+				"type": "ExecutePipeline",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "land_data_from_URL",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/readinessIndicatorsbySubgroup/part1.csv",
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"sinkPath": "contoso/v0.1/readinessIndicatorsbySubgroup",
+						"sinkFilename": {
+							"value": "@pipeline().parameters.defaultFilename",
+							"type": "Expression"
+						},
+						"batchType": "delta"
+					}
+				}
+			},
+			{
+				"name": "land_progressTowardsEngLangProfibySubgr",
+				"type": "ExecutePipeline",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "land_data_from_URL",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/progressTowardsEngLangProfibySubgr/part1.csv",
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"sinkPath": "contoso/v0.1/progressTowardsEngLangProfibySubgr",
+						"sinkFilename": {
+							"value": "@pipeline().parameters.defaultFilename",
+							"type": "Expression"
+						},
+						"batchType": "snapshot"
+					}
+				}
+			},
+			{
+				"name": "land_demographics",
+				"type": "ExecutePipeline",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "land_data_from_URL",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/demographics/part1.csv",
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"sinkPath": "contoso/v0.1/demographics",
+						"sinkFilename": {
+							"value": "@pipeline().parameters.defaultFilename",
+							"type": "Expression"
+						},
+						"batchType": "snapshot"
+					}
+				}
+			},
+			{
+				"name": "land_graduationRatesbySubgroup",
+				"type": "ExecutePipeline",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "land_data_from_URL",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/graduationRatesbySubgroup/part1.csv",
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"sinkPath": "contoso/v0.1/graduationRatesbySubgroup",
+						"sinkFilename": {
+							"value": "@pipeline().parameters.defaultFilename",
+							"type": "Expression"
+						},
+						"batchType": "snapshot"
+					}
+				}
+			},
+			{
+				"name": "land_cohortGraduRateStDistSchoolSubgrp",
+				"type": "ExecutePipeline",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "land_data_from_URL",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/cohortGraduRateStDistSchoolSubgrp/part1.csv",
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"sinkPath": "contoso/v0.1/cohortGraduRateStDistSchoolSubgrp",
+						"sinkFilename": {
+							"value": "@pipeline().parameters.defaultFilename",
+							"type": "Expression"
+						},
+						"batchType": "snapshot"
+					}
+				}
+			}
+		],
+		"parameters": {
+			"workspace": {
+				"type": "string",
+				"defaultValue": "dev"
+			},
+			"defaultFilename": {
+				"type": "string",
+				"defaultValue": "part1.csv"
+			}
+		},
+		"folder": {
+			"name": "contoso_v0p2"
+		},
+		"annotations": [],
+		"lastPublishTime": "2022-11-15T20:46:13Z"
+	},
+	"type": "Microsoft.Synapse/workspaces/pipelines"
+}

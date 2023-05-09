@@ -1,0 +1,681 @@
+id,Reporting Level,System ID,School ID,System Name,School Name,Reporting Label,Graduation Class Size,Total Graduated,Graduation Rate
+1,School,601,103,Appling County,Appling County High School,ALL Students,237,218,91.98
+2,System,601,ALL,Appling County,All Schools,ALL Students,237,218,91.98
+3,School,602,103,Atkinson County,Atkinson County High School,ALL Students,94,90,95.74
+4,System,602,ALL,Atkinson County,All Schools,ALL Students,94,90,95.74
+5,School,603,302,Bacon County,Bacon County High School,ALL Students,154,143,92.86
+6,System,603,ALL,Bacon County,All Schools,ALL Students,154,143,92.86
+7,School,604,105,Baker County,Baker County K12 School,ALL Students,21,17,80.95
+8,System,604,ALL,Baker County,All Schools,ALL Students,21,17,80.95
+9,School,605,189,Baldwin County,Baldwin High School,ALL Students,278,246,88.49
+10,System,605,ALL,Baldwin County,All Schools,ALL Students,278,246,88.49
+11,School,606,199,Banks County,Banks County High School,ALL Students,201,169,84.08
+12,System,606,ALL,Banks County,All Schools,ALL Students,201,169,84.08
+13,School,607,101,Barrow County,Apalachee High School,ALL Students,478,435,91
+14,School,607,3052,Barrow County,Winder-Barrow High School,ALL Students,463,408,88.12
+15,System,607,ALL,Barrow County,All Schools,ALL Students,942,843,89.49
+16,School,608,105,Bartow County,Adairsville High School,ALL Students,238,230,96.64
+17,School,608,114,Bartow County,Cass High School,ALL Students,366,337,92.08
+18,School,608,198,Bartow County,Woodland High School,ALL Students,320,305,95.31
+19,System,608,ALL,Bartow County,All Schools,ALL Students,924,872,94.37
+20,School,609,291,Ben Hill County,Fitzgerald High School,ALL Students,182,171,93.96
+21,School,609,392,Ben Hill County,Hurricane Transition Academy,ALL Students,24,0,0
+22,System,609,ALL,Ben Hill County,All Schools,ALL Students,207,171,82.61
+23,School,610,101,Berrien County,Berrien High School,ALL Students,201,166,82.59
+24,School,610,106,Berrien County,Berrien Academy Performance Learning Center,ALL Students,29,26,89.66
+25,System,610,ALL,Berrien County,All Schools,ALL Students,230,192,83.48
+26,School,611,105,Bibb County,Howard High School,ALL Students,258,218,84.5
+27,School,611,186,Bibb County,Central High School,ALL Students,213,192,90.14
+28,School,611,198,Bibb County,Westside High School,ALL Students,254,200,78.74
+29,School,611,204,Bibb County,Rutland High School,ALL Students,210,171,81.43
+30,School,611,286,Bibb County,Northeast High School,ALL Students,174,144,82.76
+31,School,611,307,Bibb County,Price Academy,ALL Students,Too Few Students,Too Few Students,Too Few Students
+32,School,611,386,Bibb County,Southwest High School,ALL Students,174,121,69.54
+33,School,611,1311,Bibb County,VIP Academy (Virtual),ALL Students,69,61,88.41
+34,System,611,ALL,Bibb County,All Schools,ALL Students,1367,1107,80.98
+35,School,612,105,Bleckley County,Bleckley County High School,ALL Students,144,142,98.61
+36,School,612,115,Bleckley County,Bleckley County Success Academy,ALL Students,24,20,83.33
+37,System,612,ALL,Bleckley County,All Schools,ALL Students,168,162,96.43
+38,School,613,1050,Brantley County,Brantley County High School,ALL Students,251,223,88.84
+39,System,613,ALL,Brantley County,All Schools,ALL Students,251,223,88.84
+40,School,614,110,Brooks County,Brooks County High School,ALL Students,107,105,98.13
+41,School,614,394,Brooks County,Delta Innovative School,ALL Students,26,22,84.62
+42,System,614,ALL,Brooks County,All Schools,ALL Students,133,127,95.49
+43,School,615,182,Bryan County,Richmond Hill High School,ALL Students,601,564,93.84
+44,School,615,502,Bryan County,Bryan County High School,ALL Students,141,124,87.94
+45,System,615,ALL,Bryan County,All Schools,ALL Students,742,688,92.72
+46,School,616,203,Bulloch County,Southeast Bulloch High School,ALL Students,298,257,86.24
+47,School,616,2054,Bulloch County,Statesboro High School,ALL Students,391,326,83.38
+48,School,616,4052,Bulloch County,Portal Middle/High School,ALL Students,52,47,90.38
+49,System,616,ALL,Bulloch County,All Schools,ALL Students,741,630,85.02
+50,School,617,288,Burke County,Burke County High School,ALL Students,324,277,85.49
+51,System,617,ALL,Burke County,All Schools,ALL Students,324,277,85.49
+52,School,618,190,Butts County,Jackson High School,ALL Students,247,230,93.12
+53,System,618,ALL,Butts County,All Schools,ALL Students,247,230,93.12
+54,School,619,113,Calhoun County,Calhoun County High School,ALL Students,40,34,85
+55,System,619,ALL,Calhoun County,All Schools,ALL Students,40,34,85
+56,School,620,295,Camden County,Camden County High School,ALL Students,594,560,94.28
+57,System,620,ALL,Camden County,All Schools,ALL Students,594,560,94.28
+58,School,621,101,Candler County,Metter High School ,ALL Students,104,99,95.19
+59,School,621,303,Candler County,Metter College and Career Academy,ALL Students,56,52,92.86
+60,System,621,ALL,Candler County,All Schools,ALL Students,160,151,94.38
+61,School,622,112,Carroll County,KidsPeace,ALL Students,Too Few Students,Too Few Students,Too Few Students
+62,School,622,189,Carroll County,Temple High School,ALL Students,144,132,91.67
+63,School,622,212,Carroll County,Mt. Zion High School,ALL Students,105,98,93.33
+64,School,622,2052,Carroll County,Central High School,ALL Students,269,265,98.51
+65,School,622,3050,Carroll County,Bowdon High School,ALL Students,103,98,95.15
+66,School,622,5054,Carroll County,Villa Rica High School,ALL Students,362,331,91.44
+67,System,622,ALL,Carroll County,All Schools,ALL Students,983,924,94
+68,School,623,109,Catoosa County,Heritage High School,ALL Students,322,288,89.44
+69,School,623,1052,Catoosa County,Lakeview-Fort Oglethorpe High School,ALL Students,269,231,85.87
+70,School,623,4052,Catoosa County,Ringgold High School,ALL Students,263,245,93.16
+71,System,623,ALL,Catoosa County,All Schools,ALL Students,854,764,89.46
+72,School,624,287,Charlton County,Charlton County High School,ALL Students,103,100,97.09
+73,System,624,ALL,Charlton County,All Schools,ALL Students,103,100,97.09
+74,School,625,101,Savannah-Chatham County,Johnson High School,ALL Students,164,136,82.93
+75,School,625,107,Savannah-Chatham County,UHS of Savannah Coastal Harbor Treatment Center,ALL Students,Too Few Students,Too Few Students,Too Few Students
+76,School,625,115,Savannah-Chatham County,Woodville-Tompkins Technical and Career High School,ALL Students,144,144,100
+77,School,625,117,Savannah-Chatham County,New Hampstead High School,ALL Students,319,305,95.61
+78,School,625,210,Savannah-Chatham County,The School of Liberal Studies at Savannah High,ALL Students,115,99,86.09
+79,School,625,411,Savannah-Chatham County,Islands High School,ALL Students,243,221,90.95
+80,School,625,499,Savannah-Chatham County,Savannah Arts Academy,ALL Students,236,235,99.58
+81,School,625,513,Savannah-Chatham County,Savannah Early College High School,ALL Students,50,50,100
+82,School,625,516,Savannah-Chatham County,Savannah Classical Academy Charter High School,ALL Students,Too Few Students,Too Few Students,Too Few Students
+83,School,625,2052,Savannah-Chatham County,Beach High School,ALL Students,263,188,71.48
+84,School,625,3056,Savannah-Chatham County,Groves High School,ALL Students,218,159,72.94
+85,School,625,5060,Savannah-Chatham County,Jenkins High School,ALL Students,257,220,85.6
+86,School,625,5070,Savannah-Chatham County,Windsor Forest High School,ALL Students,243,215,88.48
+87,System,625,ALL,Savannah-Chatham County,All Schools,ALL Students,2265,1984,87.59
+88,School,626,206,Chattahoochee County,Chattahoochee County High School,ALL Students,93,90,96.77
+89,System,626,ALL,Chattahoochee County,All Schools,ALL Students,93,90,96.77
+90,School,627,1050,Chattooga County,Chattooga High School,ALL Students,146,136,93.15
+91,System,627,ALL,Chattooga County,All Schools,ALL Students,146,136,93.15
+92,School,628,106,Cherokee County,Creekview High School,ALL Students,475,455,95.79
+93,School,628,115,Cherokee County,River Ridge High School,ALL Students,459,434,94.55
+94,School,628,176,Cherokee County,Etowah High School,ALL Students,544,499,91.73
+95,School,628,191,Cherokee County,Sequoyah High School,ALL Students,464,441,95.04
+96,School,628,197,Cherokee County,Woodstock High School,ALL Students,508,477,93.9
+97,School,628,606,Cherokee County,iGrad Virtual Academy School,ALL Students,48,45,93.75
+98,School,628,5050,Cherokee County,Cherokee High School,ALL Students,664,570,85.84
+99,System,628,ALL,Cherokee County,All Schools,ALL Students,3165,2921,92.29
+100,School,629,102,Clarke County,Cedar Shoals High School,ALL Students,316,225,71.2
+101,School,629,104,Clarke County,Classic City High School,ALL Students,19,13,68.42
+102,School,629,5556,Clarke County,Clarke Central High School,ALL Students,455,365,80.22
+103,System,629,ALL,Clarke County,All Schools,ALL Students,790,603,76.33
+104,School,631,104,Clayton County,Mundy's Mill High School,ALL Students,381,333,87.4
+105,School,631,114,Clayton County,Elite Scholars Academy School,ALL Students,90,90,100
+106,School,631,115,Clayton County,Charles R. Drew High School,ALL Students,345,266,77.1
+107,School,631,190,Clayton County,Lovejoy High School,ALL Students,424,399,94.1
+108,School,631,215,Clayton County,Martha Ellen Stilwell School for the Performing Arts,ALL Students,129,129,100
+109,School,631,290,Clayton County,Mount Zion High School,ALL Students,265,244,92.08
+110,School,631,377,Clayton County,Riverdale High School,ALL Students,264,235,89.02
+111,School,631,378,Clayton County,Perry Career Academy - Eula Wilburn Ponds Perry Center for Learning,ALL Students,696,326,46.84
+112,School,631,1054,Clayton County,Forest Park High School,ALL Students,377,302,80.11
+113,School,631,1056,Clayton County,Jonesboro High School,ALL Students,292,259,88.7
+114,School,631,2052,Clayton County,North Clayton High School,ALL Students,224,191,85.27
+115,School,631,4058,Clayton County,Morrow High School,ALL Students,399,353,88.47
+116,System,631,ALL,Clayton County,All Schools,ALL Students,3924,3127,79.69
+117,School,632,1050,Clinch County,Clinch County High School,ALL Students,80,68,85
+118,System,632,ALL,Clinch County,All Schools,ALL Students,80,68,85
+119,School,633,101,Cobb County,Kennesaw Mountain High School,ALL Students,438,410,93.61
+120,School,633,103,Cobb County,Kell High School,ALL Students,400,365,91.25
+121,School,633,175,Cobb County,Walton High School,ALL Students,661,638,96.52
+122,School,633,188,Cobb County,Pope High School,ALL Students,436,422,96.79
+123,School,633,192,Cobb County,Harrison High School,ALL Students,648,630,97.22
+124,School,633,209,Cobb County,Allatoona High School,ALL Students,479,445,92.9
+125,School,633,373,Cobb County,Sprayberry High School,ALL Students,449,396,88.2
+126,School,633,381,Cobb County,Lassiter High School,ALL Students,495,480,96.97
+127,School,633,707,Cobb County,Hillgrove High School,ALL Students,531,508,95.67
+128,School,633,807,Cobb County,Devereux Ackerman Academy,ALL Students,27,0,0
+129,School,633,808,Cobb County,Cobb Horizon High School,ALL Students,282,147,52.13
+130,School,633,1054,Cobb County,Campbell High School,ALL Students,727,632,86.93
+131,School,633,1064,Cobb County,McEachern High School,ALL Students,587,516,87.9
+132,School,633,1069,Cobb County,Wheeler High School,ALL Students,559,485,86.76
+133,School,633,2056,Cobb County,North Cobb High School,ALL Students,639,592,92.64
+134,School,633,2066,Cobb County,Osborne High School,ALL Students,597,406,68.01
+135,School,633,3056,Cobb County,South Cobb High School,ALL Students,534,420,78.65
+136,School,633,4066,Cobb County,Pebblebrook High School,ALL Students,625,450,72
+137,System,633,ALL,Cobb County,All Schools,ALL Students,9091,7942,87.36
+138,School,634,114,Coffee County,Wiregrass Regional College and Career Academy,ALL Students,65,63,96.92
+139,School,634,195,Coffee County,Coffee County High School,ALL Students,411,387,94.16
+140,System,634,ALL,Coffee County,All Schools,ALL Students,486,450,92.59
+141,School,635,1554,Colquitt County,Colquitt County High School,ALL Students,524,464,88.55
+142,System,635,ALL,Colquitt County,All Schools,ALL Students,533,464,87.05
+143,School,636,112,Columbia County,Grovetown High School,ALL Students,509,448,88.02
+144,School,636,183,Columbia County,Harlem High School,ALL Students,286,242,84.62
+145,School,636,189,Columbia County,Lakeside High School,ALL Students,416,391,93.99
+146,School,636,197,Columbia County,Greenbrier High School,ALL Students,405,392,96.79
+147,School,636,4050,Columbia County,Evans High School,ALL Students,479,421,87.89
+148,System,636,ALL,Columbia County,All Schools,ALL Students,2096,1894,90.36
+149,School,637,111,Cook County,Cook High School,ALL Students,202,197,97.52
+150,System,637,ALL,Cook County,All Schools,ALL Students,202,197,97.52
+151,School,638,196,Coweta County,Northgate High School,ALL Students,445,403,90.56
+152,School,638,389,Coweta County,East Coweta High School,ALL Students,775,711,91.74
+153,School,638,5054,Coweta County,Newnan High School,ALL Students,530,465,87.74
+154,System,638,ALL,Coweta County,All Schools,ALL Students,1753,1579,90.07
+155,School,639,193,Crawford County,Crawford County High School,ALL Students,134,112,83.58
+156,System,639,ALL,Crawford County,All Schools,ALL Students,134,112,83.58
+157,School,640,196,Crisp County,Crisp County High School,ALL Students,271,226,83.39
+158,System,640,ALL,Crisp County,All Schools,ALL Students,271,226,83.39
+159,School,641,195,Dade County,Dade County High School,ALL Students,164,150,91.46
+160,System,641,ALL,Dade County,All Schools,ALL Students,164,150,91.46
+161,School,642,198,Dawson County,Dawson County High School ,ALL Students,301,285,94.68
+162,System,642,ALL,Dawson County,All Schools,ALL Students,306,285,93.14
+163,School,643,116,Decatur County,New Beginning Learning Center,ALL Students,80,57,71.25
+164,School,643,3050,Decatur County,Bainbridge High School,ALL Students,295,282,95.59
+165,System,643,ALL,Decatur County,All Schools,ALL Students,375,339,90.4
+166,School,644,103,DeKalb County,"Martin Luther King, Jr. High School ",ALL Students,398,300,75.38
+167,School,644,105,DeKalb County,Miller Grove High School,ALL Students,308,256,83.12
+168,School,644,172,DeKalb County,Cedar Grove High School,ALL Students,288,234,81.25
+169,School,644,176,DeKalb County,Redan High School,ALL Students,248,201,81.05
+170,School,644,202,DeKalb County,Lithonia High School,ALL Students,358,283,79.05
+171,School,644,276,DeKalb County,Stone Mountain High School,ALL Students,290,214,73.79
+172,School,644,315,DeKalb County,Tapestry Public Charter School,ALL Students,38,31,81.58
+173,School,644,407,DeKalb County,Dekalb Early College Academy,ALL Students,65,65,100
+174,School,644,410,DeKalb County,DeKalb School of the Arts,ALL Students,78,77,98.72
+175,School,644,497,DeKalb County,Stephenson High School,ALL Students,309,230,74.43
+176,School,644,500,DeKalb County,DeKalb Alternative School,ALL Students,38,4,10.53
+177,School,644,503,DeKalb County,East DeKalb Special Education Center,ALL Students,Too Few Students,Too Few Students,Too Few Students
+178,School,644,510,DeKalb County,Margaret Harris Comprehensive School,ALL Students,Too Few Students,Too Few Students,Too Few Students
+179,School,644,610,DeKalb County,"Arabia Mountain High School - Academy of Engineering, Medicine and Environm",ALL Students,250,249,99.6
+180,School,644,707,DeKalb County,UHS of Laurel Heights,ALL Students,Too Few Students,Too Few Students,Too Few Students
+181,School,644,810,DeKalb County,Elizabeth Andrews High School,ALL Students,156,13,8.33
+182,School,644,1070,DeKalb County,Tucker High School,ALL Students,375,300,80
+183,School,644,2054,DeKalb County,Columbia High School,ALL Students,241,186,77.18
+184,School,644,2055,DeKalb County,Druid Hills High School,ALL Students,331,285,86.1
+185,School,644,3060,DeKalb County,Lakeside High School,ALL Students,543,446,82.14
+186,School,644,3070,DeKalb County,McNair High School,ALL Students,167,94,56.29
+187,School,644,4053,DeKalb County,Clarkston High School,ALL Students,392,279,71.17
+188,School,644,4054,DeKalb County,Cross Keys High School,ALL Students,416,237,56.97
+189,School,644,4069,DeKalb County,Towers High School,ALL Students,185,127,68.65
+190,School,644,5052,DeKalb County,Chamblee Charter High School,ALL Students,457,393,86
+191,School,644,5055,DeKalb County,Dunwoody High School,ALL Students,562,498,88.61
+192,School,644,5067,DeKalb County,Southwest DeKalb High School,ALL Students,295,255,86.44
+193,System,644,ALL,DeKalb County,All Schools,ALL Students,6900,5257,76.19
+194,School,645,103,Dodge County,Dodge County High School,ALL Students,199,188,94.47
+195,School,645,292,Dodge County,DAC (Dodge County Achievement Center),ALL Students,26,11,42.31
+196,System,645,ALL,Dodge County,All Schools,ALL Students,225,199,88.44
+197,School,646,182,Dooly County,Dooly County High School,ALL Students,72,62,86.11
+198,School,646,205,Dooly County,Dooly County Prep Academy,ALL Students,Too Few Students,Too Few Students,Too Few Students
+199,System,646,ALL,Dooly County,All Schools,ALL Students,82,70,85.37
+200,School,647,400,Dougherty County,"South Georgia Regional Achievement Center, The Phoenix",ALL Students,Too Few Students,Too Few Students,Too Few Students
+201,School,647,1058,Dougherty County,Monroe High School,ALL Students,278,233,83.81
+202,School,647,2052,Dougherty County,Dougherty Comprehensive High School,ALL Students,273,229,83.88
+203,School,647,4062,Dougherty County,Westover High School,ALL Students,300,280,93.33
+204,System,647,ALL,Dougherty County,All Schools,ALL Students,855,745,87.13
+205,School,648,100,Douglas County,Chapel Hill High School,ALL Students,385,362,94.03
+206,School,648,175,Douglas County,Lithia Springs Comprehensive High School,ALL Students,387,317,81.91
+207,School,648,187,Douglas County,Alexander High School,ALL Students,470,427,90.85
+208,School,648,212,Douglas County,New Manchester High School,ALL Students,429,372,86.71
+209,School,648,507,Douglas County,Youth Villages at Inner Harbour,ALL Students,Too Few Students,Too Few Students,Too Few Students
+210,School,648,4050,Douglas County,Douglas County High School,ALL Students,455,398,87.47
+211,System,648,ALL,Douglas County,All Schools,ALL Students,2126,1876,88.24
+212,School,649,2050,Early County,Early County High School,ALL Students,153,130,84.97
+213,System,649,ALL,Early County,All Schools,ALL Students,153,130,84.97
+214,School,650,1050,Echols County,Echols County High School,ALL Students,50,48,96
+215,System,650,ALL,Echols County,All Schools,ALL Students,50,48,96
+216,School,651,197,Effingham County,South Effingham High School,ALL Students,415,393,94.7
+217,School,651,390,Effingham County,Effingham County High School,ALL Students,439,391,89.07
+218,System,651,ALL,Effingham County,All Schools,ALL Students,854,784,91.8
+219,School,652,176,Elbert County,Elbert County High School,ALL Students,180,157,87.22
+220,System,652,ALL,Elbert County,All Schools,ALL Students,180,157,87.22
+221,School,653,189,Emanuel County,Swainsboro High School,ALL Students,168,131,77.98
+222,School,653,2050,Emanuel County,Emanuel County Institute,ALL Students,78,74,94.87
+223,System,653,ALL,Emanuel County,All Schools,ALL Students,246,205,83.33
+224,School,654,197,Evans County,Second Chance,ALL Students,Too Few Students,Too Few Students,Too Few Students
+225,School,654,2050,Evans County,Claxton High School,ALL Students,117,109,93.16
+226,System,654,ALL,Evans County,All Schools,ALL Students,123,113,91.87
+227,School,655,176,Fannin County,Fannin County High School,ALL Students,198,179,90.4
+228,System,655,ALL,Fannin County,All Schools,ALL Students,198,179,90.4
+229,School,656,105,Fayette County,Whitewater High School,ALL Students,322,307,95.34
+230,School,656,182,Fayette County,McIntosh High School,ALL Students,435,404,92.87
+231,School,656,192,Fayette County,Sandy Creek High School,ALL Students,273,223,81.68
+232,School,656,198,Fayette County,Starrs Mill High School,ALL Students,317,304,95.9
+233,School,656,398,Fayette County,Fayette County High School,ALL Students,350,286,81.71
+234,System,656,ALL,Fayette County,All Schools,ALL Students,1697,1524,89.81
+235,School,657,107,Floyd County,Pepperell High School,ALL Students,174,165,94.83
+236,School,657,111,Floyd County,Model High,ALL Students,160,147,91.88
+237,School,657,401,Floyd County,Armuchee High School,ALL Students,114,105,92.11
+238,School,657,5050,Floyd County,Coosa High School,ALL Students,146,128,87.67
+239,System,657,ALL,Floyd County,All Schools,ALL Students,595,545,91.6
+240,School,658,107,Forsyth County,West Forsyth High School,ALL Students,636,611,96.07
+241,School,658,190,Forsyth County,South Forsyth High School,ALL Students,574,566,98.61
+242,School,658,195,Forsyth County,North Forsyth High School,ALL Students,611,569,93.13
+243,School,658,214,Forsyth County,Lambert High School,ALL Students,731,720,98.5
+244,School,658,701,Forsyth County,Alliance Academy for Innovation,ALL Students,300,300,100
+245,School,658,702,Forsyth County,Denmark High School,ALL Students,568,549,96.65
+246,School,658,704,Forsyth County,East Forsyth High School,ALL Students,Too Few Students,Too Few Students,Too Few Students
+247,School,658,5050,Forsyth County,Forsyth Central High School,ALL Students,644,607,94.25
+248,System,658,ALL,Forsyth County,All Schools,ALL Students,4070,3922,96.36
+249,School,659,3050,Franklin County,Franklin County High School,ALL Students,257,232,90.27
+250,System,659,ALL,Franklin County,All Schools,ALL Students,257,232,90.27
+251,School,660,106,Fulton County,Milton High School,ALL Students,558,542,97.13
+252,School,660,118,Fulton County,Hapeville Charter Career Academy,ALL Students,135,124,91.85
+253,School,660,119,Fulton County,Cambridge High School,ALL Students,530,520,98.11
+254,School,660,176,Fulton County,Banneker High School,ALL Students,383,317,82.77
+255,School,660,191,Fulton County,Roswell High School,ALL Students,519,486,93.64
+256,School,660,198,Fulton County,Centennial High School,ALL Students,447,418,93.51
+257,School,660,203,Fulton County,Northview High School,ALL Students,469,456,97.23
+258,School,660,205,Fulton County,Alpharetta High School,ALL Students,575,557,96.87
+259,School,660,291,Fulton County,Creekside High School,ALL Students,426,377,88.5
+260,School,660,307,Fulton County,Georgia Baptist Children's Home and Family Ministries,ALL Students,Too Few Students,Too Few Students,Too Few Students
+261,School,660,383,Fulton County,McClarin High School,ALL Students,121,66,54.55
+262,School,660,386,Fulton County,Independence High School,ALL Students,135,23,17.04
+263,School,660,392,Fulton County,Chattahoochee High School,ALL Students,470,454,96.6
+264,School,660,691,Fulton County,Tri-Cities High School,ALL Students,378,337,89.15
+265,School,660,910,Fulton County,Johns Creek High School,ALL Students,521,503,96.55
+266,School,660,1110,Fulton County,Langston Hughes High School,ALL Students,502,428,85.26
+267,School,660,1320,Fulton County,Skyview High School,ALL Students,153,13,8.5
+268,School,660,1321,Fulton County,Wellspring Living,ALL Students,Too Few Students,Too Few Students,Too Few Students
+269,School,660,3066,Fulton County,Riverwood International Charter School,ALL Students,405,395,97.53
+270,School,660,4062,Fulton County,North Springs High School,ALL Students,329,303,92.1
+271,School,660,5069,Fulton County,Westlake High School,ALL Students,499,463,92.79
+272,System,660,ALL,Fulton County,All Schools,ALL Students,7598,6782,89.26
+273,School,661,196,Gilmer County,Gilmer High School,ALL Students,267,251,94.01
+274,System,661,ALL,Gilmer County,All Schools,ALL Students,267,251,94.01
+275,School,662,196,Glascock County,Glascock County Middle/High School,ALL Students,40,35,87.5
+276,System,662,ALL,Glascock County,All Schools,ALL Students,40,35,87.5
+277,School,663,107,Glynn County,"Morningstar Treatment Services, Inc. Youth Estate",ALL Students,Too Few Students,Too Few Students,Too Few Students
+278,School,663,3552,Glynn County,Brunswick High School,ALL Students,402,380,94.53
+279,School,663,4752,Glynn County,Glynn Academy,ALL Students,426,408,95.77
+280,System,663,ALL,Glynn County,All Schools,ALL Students,828,788,95.17
+281,School,664,106,Gordon County,Sonoraville High School,ALL Students,246,237,96.34
+282,School,664,286,Gordon County,Gordon Central High School,ALL Students,210,201,95.71
+283,System,664,ALL,Gordon County,All Schools,ALL Students,456,438,96.05
+284,School,665,1050,Grady County,Cairo High School,ALL Students,317,282,88.96
+285,System,665,ALL,Grady County,All Schools,ALL Students,317,282,88.96
+286,School,666,401,Greene County,Greene County High School,ALL Students,95,82,86.32
+287,School,666,402,Greene County,Lake Oconee Charter High School,ALL Students,60,56,93.33
+288,System,666,ALL,Greene County,All Schools,ALL Students,155,138,89.03
+289,School,667,101,Gwinnett County,Grayson High School,ALL Students,784,724,92.35
+290,School,667,103,Gwinnett County,Norcross High School,ALL Students,627,509,81.18
+291,School,667,105,Gwinnett County,Mill Creek High School,ALL Students,966,889,92.03
+292,School,667,176,Gwinnett County,Parkview High School,ALL Students,807,701,86.86
+293,School,667,182,Gwinnett County,Brookwood High School,ALL Students,913,858,93.98
+294,School,667,185,Gwinnett County,Shiloh High School,ALL Students,490,406,82.86
+295,School,667,187,Gwinnett County,Meadowcreek High School,ALL Students,645,528,81.86
+296,School,667,189,Gwinnett County,Phoenix High School,ALL Students,377,83,22.02
+297,School,667,195,Gwinnett County,Collins Hill High School,ALL Students,709,583,82.23
+298,School,667,388,Gwinnett County,Gwinnett InterVention Education (GIVE) Center East,ALL Students,38,3,7.89
+299,School,667,708,Gwinnett County,Oakland Meadow School,ALL Students,Too Few Students,Too Few Students,Too Few Students
+300,School,667,805,Gwinnett County,Peachtree Ridge High School,ALL Students,814,750,92.14
+301,School,667,1018,Gwinnett County,Lanier High School,ALL Students,483,444,91.93
+302,School,667,1019,Gwinnett County,"Gwinnett School of Mathematics, Science and Technology",ALL Students,243,241,99.18
+303,School,667,1050,Gwinnett County,Berkmar High School,ALL Students,693,538,77.63
+304,School,667,1114,Gwinnett County,Gwinnett Intervention Education Center (GIVE) West,ALL Students,74,0,0
+305,School,667,1214,Gwinnett County,Gwinnett Online Campus,ALL Students,171,97,56.73
+306,School,667,1410,Gwinnett County,Mountain View High School,ALL Students,693,617,89.03
+307,School,667,1710,Gwinnett County,Archer High School,ALL Students,669,593,88.64
+308,School,667,1814,Gwinnett County,Discovery High School,ALL Students,640,511,79.84
+309,School,667,1818,Gwinnett County,Paul Duke STEM High School,ALL Students,267,236,88.39
+310,School,667,1819,Gwinnett County,McClure Health Science High School,ALL Students,106,100,94.34
+311,School,667,2558,Gwinnett County,South Gwinnett High School,ALL Students,627,504,80.38
+312,School,667,3750,Gwinnett County,Central Gwinnett High School,ALL Students,510,402,78.82
+313,School,667,4052,Gwinnett County,Dacula High School,ALL Students,562,500,88.97
+314,School,667,4556,Gwinnett County,North Gwinnett High School,ALL Students,830,792,95.42
+315,School,667,5550,Gwinnett County,Duluth High School,ALL Students,634,548,86.44
+316,System,667,ALL,Gwinnett County,All Schools,ALL Students,14621,12157,83.15
+317,School,668,114,Habersham County,Habersham Success Academy,ALL Students,21,21,100
+318,School,668,2052,Habersham County,Habersham Central High School,ALL Students,446,440,98.65
+319,System,668,ALL,Habersham County,All Schools,ALL Students,473,461,97.46
+320,School,669,102,Hall County,Chestatee High School,ALL Students,326,281,86.2
+321,School,669,105,Hall County,Lanier College and Career Academy,ALL Students,113,56,49.56
+322,School,669,189,Hall County,West Hall High School,ALL Students,279,244,87.46
+323,School,669,202,Hall County,Flowery Branch High,ALL Students,307,284,92.51
+324,School,669,391,Hall County,Cherokee Bluff High School,ALL Students,240,235,97.92
+325,School,669,392,Hall County,The Foundry,ALL Students,16,6,37.5
+326,School,669,1552,Hall County,East Hall High School,ALL Students,241,205,85.06
+327,School,669,1556,Hall County,North Hall High School,ALL Students,258,242,93.8
+328,School,669,4752,Hall County,Johnson High School,ALL Students,353,287,81.3
+329,System,669,ALL,Hall County,All Schools,ALL Students,2138,1840,86.06
+330,School,670,288,Hancock County,Hancock Central High School,ALL Students,53,40,75.47
+331,System,670,ALL,Hancock County,All Schools,ALL Students,53,40,75.47
+332,School,671,198,Haralson County,Haralson County Rebel Academy,ALL Students,Too Few Students,Too Few Students,Too Few Students
+333,School,671,3050,Haralson County,Haralson County High School,ALL Students,207,205,99.03
+334,System,671,ALL,Haralson County,All Schools,ALL Students,214,208,97.2
+335,School,672,299,Harris County,Harris County High School,ALL Students,398,361,90.7
+336,System,672,ALL,Harris County,All Schools,ALL Students,398,361,90.7
+337,School,673,3050,Hart County,Hart County High School,ALL Students,236,228,96.61
+338,System,673,ALL,Hart County,All Schools,ALL Students,236,228,96.61
+339,School,674,110,Heard County,Heard County High School,ALL Students,157,151,96.18
+340,School,674,1051,Heard County,Arrow Academy Alternative School,ALL Students,Too Few Students,Too Few Students,Too Few Students
+341,System,674,ALL,Heard County,All Schools,ALL Students,165,157,95.15
+342,School,675,101,Henry County,Union Grove High,ALL Students,377,350,92.84
+343,School,675,104,Henry County,Luella High School,ALL Students,355,313,88.17
+344,School,675,105,Henry County,Dutchtown High,ALL Students,476,433,90.97
+345,School,675,214,Henry County,Locust Grove High,ALL Students,416,347,83.41
+346,School,675,295,Henry County,Stockbridge High School,ALL Students,385,298,77.4
+347,School,675,307,Henry County,Ola High School,ALL Students,411,379,92.21
+348,School,675,315,Henry County,Hampton High School,ALL Students,286,248,86.71
+349,School,675,391,Henry County,Eagle's Landing High School,ALL Students,367,324,88.28
+350,School,675,408,Henry County,Woodland High School,ALL Students,347,305,87.9
+351,School,675,804,Henry County,EXCEL Academy,ALL Students,28,8,28.57
+352,School,675,3050,Henry County,McDonough High School,ALL Students,293,245,83.62
+353,System,675,ALL,Henry County,All Schools,ALL Students,3746,3250,86.76
+354,School,676,111,Houston County,Veterans High School,ALL Students,397,374,94.21
+355,School,676,192,Houston County,Houston County High School,ALL Students,500,477,95.4
+356,School,676,1054,Houston County,Perry High School,ALL Students,373,350,93.83
+357,School,676,2052,Houston County,Northside High School,ALL Students,444,355,79.95
+358,School,676,4056,Houston County,Warner Robins High School,ALL Students,417,366,87.77
+359,System,676,ALL,Houston County,All Schools,ALL Students,2149,1923,89.48
+360,School,677,2050,Irwin County,Irwin County High School,ALL Students,114,105,92.11
+361,System,677,ALL,Irwin County,All Schools,ALL Students,114,105,92.11
+362,School,678,107,Jackson County,East Jackson Comprehensive High School,ALL Students,200,194,97
+363,School,678,191,Jackson County,Jackson County High School,ALL Students,355,329,92.68
+364,System,678,ALL,Jackson County,All Schools,ALL Students,556,523,94.06
+365,School,679,108,Jasper County,Jasper County High School,ALL Students,139,127,91.37
+366,System,679,ALL,Jasper County,All Schools,ALL Students,139,127,91.37
+367,School,680,199,Jeff Davis County,Jeff Davis High School,ALL Students,191,186,97.38
+368,System,680,ALL,Jeff Davis County,All Schools,ALL Students,191,186,97.38
+369,School,681,196,Jefferson County,Jefferson County High School,ALL Students,184,166,90.22
+370,System,681,ALL,Jefferson County,All Schools,ALL Students,184,166,90.22
+371,School,682,201,Jenkins County,Jenkins County High School,ALL Students,73,60,82.19
+372,System,682,ALL,Jenkins County,All Schools,ALL Students,73,60,82.19
+373,School,683,201,Johnson County,Johnson County High School ,ALL Students,70,58,82.86
+374,System,683,ALL,Johnson County,All Schools,ALL Students,70,58,82.86
+375,School,684,192,Jones County,Jones County High School,ALL Students,397,359,90.43
+376,System,684,ALL,Jones County,All Schools,ALL Students,397,359,90.43
+377,School,685,175,Lamar County,Lamar County High School,ALL Students,214,181,84.58
+378,System,685,ALL,Lamar County,All Schools,ALL Students,214,181,84.58
+379,School,686,201,Lanier County,Lanier County High School,ALL Students,125,115,92
+380,System,686,ALL,Lanier County,All Schools,ALL Students,125,115,92
+381,School,687,110,Laurens County,West Laurens High School,ALL Students,303,271,89.44
+382,School,687,197,Laurens County,East Laurens High School,ALL Students,177,152,85.88
+383,System,687,ALL,Laurens County,All Schools,ALL Students,480,423,88.13
+384,School,688,193,Lee County,Lee County High School,ALL Students,479,439,91.65
+385,School,688,209,Lee County,Lee High School 9th Grade Campus,ALL Students,Too Few Students,Too Few Students,Too Few Students
+386,System,688,ALL,Lee County,All Schools,ALL Students,483,439,90.89
+387,School,689,105,Liberty County,Bradwell Institute,ALL Students,392,355,90.56
+388,School,689,192,Liberty County,Liberty County High School,ALL Students,269,240,89.22
+389,System,689,ALL,Liberty County,All Schools,ALL Students,661,595,90.02
+390,School,690,110,Lincoln County,Lincoln County High School,ALL Students,79,73,92.41
+391,System,690,ALL,Lincoln County,All Schools,ALL Students,79,73,92.41
+392,School,691,205,Long County,Long County High School,ALL Students,232,223,96.12
+393,System,691,ALL,Long County,All Schools,ALL Students,232,223,96.12
+394,School,692,5050,Lowndes County,Lowndes High School,ALL Students,693,661,95.38
+395,System,692,ALL,Lowndes County,All Schools,ALL Students,693,661,95.38
+396,School,693,101,Lumpkin County,Lumpkin County High School,ALL Students,227,224,98.68
+397,System,693,ALL,Lumpkin County,All Schools,ALL Students,227,224,98.68
+398,School,694,2060,Macon County,Macon County High School,ALL Students,96,83,86.46
+399,System,694,ALL,Macon County,All Schools,ALL Students,96,83,86.46
+400,School,695,5050,Madison County,Madison County High School,ALL Students,281,266,94.66
+401,System,695,ALL,Madison County,All Schools,ALL Students,281,266,94.66
+402,School,696,275,Marion County,Marion County Middle/High School,ALL Students,87,76,87.36
+403,System,696,ALL,Marion County,All Schools,ALL Students,87,76,87.36
+404,School,697,192,McDuffie County,Thomson High School,ALL Students,219,188,85.84
+405,System,697,ALL,McDuffie County,All Schools,ALL Students,219,188,85.84
+406,School,698,104,McIntosh County,McIntosh Academy,ALL Students,70,69,98.57
+407,System,698,ALL,McIntosh County,All Schools,ALL Students,70,69,98.57
+408,School,699,207,Meriwether County,Good Sheperd Therapeutic Center,ALL Students,Too Few Students,Too Few Students,Too Few Students
+409,School,699,300,Meriwether County,Greenville High School,ALL Students,63,52,82.54
+410,School,699,4050,Meriwether County,Manchester High School,ALL Students,110,87,79.09
+411,System,699,ALL,Meriwether County,All Schools,ALL Students,173,139,80.35
+412,School,700,210,Miller County,Miller County High School,ALL Students,54,50,92.59
+413,System,700,ALL,Miller County,All Schools,ALL Students,54,50,92.59
+414,School,701,282,Mitchell County,Mitchell County High School,ALL Students,79,69,87.34
+415,System,701,ALL,Mitchell County,All Schools,ALL Students,80,69,86.25
+416,School,702,184,Monroe County,Mary Persons High School,ALL Students,264,245,92.8
+417,System,702,ALL,Monroe County,All Schools,ALL Students,264,245,92.8
+418,School,703,201,Montgomery County,Montgomery County High School,ALL Students,70,68,97.14
+419,System,703,ALL,Montgomery County,All Schools,ALL Students,70,68,97.14
+420,School,704,1050,Morgan County,Morgan County High School,ALL Students,214,205,95.79
+421,System,704,ALL,Morgan County,All Schools,ALL Students,214,205,95.79
+422,School,705,108,Murray County,Pleasant Valley Innovative School,ALL Students,41,29,70.73
+423,School,705,112,Murray County,North Murray High School,ALL Students,195,183,93.85
+424,School,705,190,Murray County,Murray County High School,ALL Students,183,175,95.63
+425,System,705,ALL,Murray County,All Schools,ALL Students,419,387,92.36
+426,School,706,203,Muscogee County,Northside High School,ALL Students,351,338,96.3
+427,School,706,278,Muscogee County,Shaw High School,ALL Students,269,247,91.82
+428,School,706,378,Muscogee County,Spencer High School,ALL Students,182,162,89.01
+429,School,706,502,Muscogee County,Rainey McCullers School of the Arts,ALL Students,30,30,100
+430,School,706,1064,Muscogee County,Kendrick High School,ALL Students,191,175,91.62
+431,School,706,2062,Muscogee County,Hardaway High School,ALL Students,267,234,87.64
+432,School,706,3054,Muscogee County,Columbus High School,ALL Students,270,270,100
+433,School,706,5052,Muscogee County,Carver High School,ALL Students,193,167,86.53
+434,School,706,5062,Muscogee County,Jordan Vocational High School,ALL Students,175,157,89.71
+435,System,706,ALL,Muscogee County,All Schools,ALL Students,1934,1780,92.04
+436,School,707,173,Newton County,Newton High School,ALL Students,581,533,91.74
+437,School,707,206,Newton County,Alcovy High School,ALL Students,438,388,88.58
+438,School,707,295,Newton County,Eastside High School,ALL Students,378,344,91.01
+439,System,707,ALL,Newton County,All Schools,ALL Students,1398,1265,90.49
+440,School,708,105,Oconee County,North Oconee High School,ALL Students,352,346,98.3
+441,School,708,293,Oconee County,Oconee County High School,ALL Students,269,262,97.4
+442,System,708,ALL,Oconee County,All Schools,ALL Students,621,608,97.91
+443,School,709,2050,Oglethorpe County,Oglethorpe County High School,ALL Students,139,131,94.24
+444,System,709,ALL,Oglethorpe County,All Schools,ALL Students,139,131,94.24
+445,School,710,101,Paulding County,Hiram High School,ALL Students,346,305,88.15
+446,School,710,106,Paulding County,South Paulding High School,ALL Students,476,433,90.97
+447,School,710,109,Paulding County,North Paulding High School,ALL Students,645,613,95.04
+448,School,710,292,Paulding County,East Paulding High School,ALL Students,490,436,88.98
+449,School,710,2552,Paulding County,Paulding County High School,ALL Students,462,404,87.45
+450,System,710,ALL,Paulding County,All Schools,ALL Students,2423,2191,90.43
+451,School,711,2052,Peach County,Peach County High School,ALL Students,228,186,81.58
+452,System,711,ALL,Peach County,All Schools,ALL Students,228,186,81.58
+453,School,712,198,Pickens County,Pickens County High School,ALL Students,261,239,91.57
+454,System,712,ALL,Pickens County,All Schools,ALL Students,261,239,91.57
+455,School,713,182,Pierce County,Pierce County High School,ALL Students,228,214,93.86
+456,System,713,ALL,Pierce County,All Schools,ALL Students,228,214,93.86
+457,School,714,194,Pike County,Pike County High School,ALL Students,237,228,96.2
+458,School,714,296,Pike County,Zebulon High School,ALL Students,31,28,90.32
+459,System,714,ALL,Pike County,All Schools,ALL Students,268,256,95.52
+460,School,715,102,Polk County,Rockmart High School,ALL Students,225,212,94.22
+461,School,715,207,Polk County,Harpst Academy,ALL Students,Too Few Students,Too Few Students,Too Few Students
+462,School,715,5050,Polk County,Cedartown High School,ALL Students,336,292,86.9
+463,System,715,ALL,Polk County,All Schools,ALL Students,561,504,89.84
+464,School,716,2050,Pulaski County,Hawkinsville High School,ALL Students,79,67,84.81
+465,System,716,ALL,Pulaski County,All Schools,ALL Students,79,67,84.81
+466,School,717,114,Putnam County,Putnam County High School,ALL Students,203,183,90.15
+467,System,717,ALL,Putnam County,All Schools,ALL Students,203,183,90.15
+468,School,718,110,Quitman County,Quitman County High School,ALL Students,22,18,81.82
+469,System,718,ALL,Quitman County,All Schools,ALL Students,22,18,81.82
+470,School,719,177,Rabun County,Rabun County High School ,ALL Students,169,155,91.72
+471,System,719,ALL,Rabun County,All Schools,ALL Students,169,155,91.72
+472,School,720,201,Randolph County,Randolph Clay High School,ALL Students,56,49,87.5
+473,System,720,ALL,Randolph County,All Schools,ALL Students,56,49,87.5
+474,School,721,100,Richmond County,Cross Creek High School,ALL Students,262,199,75.95
+475,School,721,107,Richmond County,Lighthouse Care Center of Augusta,ALL Students,Too Few Students,Too Few Students,Too Few Students
+476,School,721,213,Richmond County,Richmond County Technical Career Magnet School,ALL Students,69,69,100
+477,School,721,1052,Richmond County,Butler High School,ALL Students,189,134,70.9
+478,School,721,2056,Richmond County,Hephzibah High School,ALL Students,237,172,72.57
+479,School,721,2574,Richmond County,Westside High School,ALL Students,230,182,79.13
+480,School,721,3054,Richmond County,Glenn Hills High School,ALL Students,202,131,64.85
+481,School,721,3556,Richmond County,Johnson Magnet,ALL Students,77,77,100
+482,School,721,3756,Richmond County,Josey High School,ALL Students,168,104,61.9
+483,School,721,4060,Richmond County,Academy of Richmond County High School,ALL Students,265,219,82.64
+484,School,721,4562,Richmond County,Davidson Magnet School,ALL Students,101,101,100
+485,School,721,5566,Richmond County,Laney High School,ALL Students,159,116,72.96
+486,System,721,ALL,Richmond County,All Schools,ALL Students,2103,1507,71.66
+487,School,722,176,Rockdale County,Heritage High School,ALL Students,446,373,83.63
+488,School,722,192,Rockdale County,Salem High School,ALL Students,261,198,75.86
+489,School,722,3052,Rockdale County,Rockdale County High School,ALL Students,528,434,82.2
+490,System,722,ALL,Rockdale County,All Schools,ALL Students,1237,1005,81.24
+491,School,723,101,Schley County,Schley Middle High School,ALL Students,106,103,97.17
+492,System,723,ALL,Schley County,All Schools,ALL Students,106,103,97.17
+493,School,724,4052,Screven County,Screven County High School,ALL Students,115,90,78.26
+494,System,724,ALL,Screven County,All Schools,ALL Students,115,90,78.26
+495,School,725,196,Seminole County,Seminole County Middle/High School,ALL Students,99,93,93.94
+496,System,725,ALL,Seminole County,All Schools,ALL Students,99,93,93.94
+497,School,726,101,Griffin-Spalding County,Spalding High School,ALL Students,333,271,81.38
+498,School,726,187,Griffin-Spalding County,Griffin High School,ALL Students,318,254,79.87
+499,School,726,208,Griffin-Spalding County,AZ Kelsey Academy,ALL Students,22,10,45.45
+500,System,726,ALL,Griffin-Spalding County,All Schools,ALL Students,673,535,79.49
+501,School,727,5050,Stephens County,Stephens County High School,ALL Students,251,235,93.63
+502,System,727,ALL,Stephens County,All Schools,ALL Students,251,235,93.63
+503,School,728,201,Stewart County,Stewart County High School,ALL Students,25,23,92
+504,System,728,ALL,Stewart County,All Schools,ALL Students,25,23,92
+505,School,729,397,Sumter County,Sumter County High School,ALL Students,234,225,96.15
+506,System,729,ALL,Sumter County,All Schools,ALL Students,235,225,95.74
+507,School,730,190,Talbot County,Central Elementary/High School,ALL Students,35,29,82.86
+508,System,730,ALL,Talbot County,All Schools,ALL Students,35,29,82.86
+509,School,731,102,Taliaferro County,Taliaferro County School,ALL Students,Too Few Students,Too Few Students,Too Few Students
+510,System,731,ALL,Taliaferro County,All Schools,ALL Students,Too Few Students,Too Few Students,Too Few Students
+511,School,732,194,Tattnall County,Tattnall County High School,ALL Students,232,214,92.24
+512,System,732,ALL,Tattnall County,All Schools,ALL Students,232,214,92.24
+513,School,733,201,Taylor County,Taylor County High School,ALL Students,93,80,86.02
+514,System,733,ALL,Taylor County,All Schools,ALL Students,93,80,86.02
+515,School,734,201,Telfair County,Telfair County High School,ALL Students,95,87,91.58
+516,School,734,202,Telfair County,Telfair Alternative Preparation School,ALL Students,Too Few Students,Too Few Students,Too Few Students
+517,System,734,ALL,Telfair County,All Schools,ALL Students,108,93,86.11
+518,School,735,105,Terrell County,Terrell High School,ALL Students,81,71,87.65
+519,System,735,ALL,Terrell County,All Schools,ALL Students,81,71,87.65
+520,School,736,100,Thomas County,Bishop Hall Charter School,ALL Students,73,59,80.82
+521,School,736,115,Thomas County,The Renaissance Center for Academic and Career Development,ALL Students,Too Few Students,Too Few Students,Too Few Students
+522,School,736,191,Thomas County,Thomas County Central High School,ALL Students,272,268,98.53
+523,System,736,ALL,Thomas County,All Schools,ALL Students,349,327,93.7
+524,School,737,199,Tift County,Tift County High School,ALL Students,509,475,93.32
+525,System,737,ALL,Tift County,All Schools,ALL Students,509,475,93.32
+526,School,738,192,Toombs County,Toombs County High School,ALL Students,187,174,93.05
+527,System,738,ALL,Toombs County,All Schools,ALL Students,187,174,93.05
+528,School,739,204,Towns County,Towns County High School,ALL Students,76,69,90.79
+529,System,739,ALL,Towns County,All Schools,ALL Students,76,69,90.79
+530,School,740,213,Treutlen County,Treutlen Middle/High School,ALL Students,90,80,88.89
+531,System,740,ALL,Treutlen County,All Schools,ALL Students,90,80,88.89
+532,School,741,201,Troup County,Callaway High School,ALL Students,193,163,84.46
+533,School,741,207,Troup County,Bradfield Center - Ault Academy,ALL Students,Too Few Students,Too Few Students,Too Few Students
+534,School,741,387,Troup County,Troup County High School,ALL Students,334,290,86.83
+535,School,741,699,Troup County,The Hope Academy School,ALL Students,Too Few Students,Too Few Students,Too Few Students
+536,School,741,1052,Troup County,LaGrange High School,ALL Students,292,259,88.7
+537,System,741,ALL,Troup County,All Schools,ALL Students,830,713,85.9
+538,School,742,3050,Turner County,Turner County High School,ALL Students,80,73,91.25
+539,System,742,ALL,Turner County,All Schools,ALL Students,80,73,91.25
+540,School,743,201,Twiggs County,Twiggs County High School,ALL Students,45,40,88.89
+541,System,743,ALL,Twiggs County,All Schools,ALL Students,45,40,88.89
+542,School,744,101,Union County,Union County High School,ALL Students,214,212,99.07
+543,School,744,3050,Union County,Woody Gap High/Elementary School,ALL Students,Too Few Students,Too Few Students,Too Few Students
+544,System,744,ALL,Union County,All Schools,ALL Students,220,218,99.09
+545,School,745,195,Thomaston-Upson County,Upson-Lee High School,ALL Students,276,249,90.22
+546,System,745,ALL,Thomaston-Upson County,All Schools,ALL Students,276,249,90.22
+547,School,746,190,Walker County,Ridgeland High School,ALL Students,308,283,91.88
+548,School,746,198,Walker County,LaFayette High School,ALL Students,275,249,90.55
+549,System,746,ALL,Walker County,All Schools,ALL Students,584,532,91.1
+550,School,747,111,Walton County,Walnut Grove High School,ALL Students,330,310,93.94
+551,School,747,199,Walton County,Loganville High School,ALL Students,439,422,96.13
+552,School,747,205,Walton County,Monroe Area High School,ALL Students,261,245,93.87
+553,System,747,ALL,Walton County,All Schools,ALL Students,1030,977,94.85
+554,School,748,195,Ware County,Ware County High School,ALL Students,406,351,86.45
+555,System,748,ALL,Ware County,All Schools,ALL Students,406,351,86.45
+556,School,749,205,Warren County,Warren County High School,ALL Students,43,35,81.4
+557,System,749,ALL,Warren County,All Schools,ALL Students,43,35,81.4
+558,School,750,1052,Washington County,Washington County High School,ALL Students,223,208,93.27
+559,System,750,ALL,Washington County,All Schools,ALL Students,223,208,93.27
+560,School,751,101,Wayne County,Wayne County High School,ALL Students,313,282,90.1
+561,System,751,ALL,Wayne County,All Schools,ALL Students,313,282,90.1
+562,School,752,108,Webster County,Webster County High School,ALL Students,17,17,100
+563,System,752,ALL,Webster County,All Schools,ALL Students,17,17,100
+564,School,753,3052,Wheeler County,Wheeler County High School,ALL Students,71,65,91.55
+565,System,753,ALL,Wheeler County,All Schools,ALL Students,71,65,91.55
+566,School,754,105,White County,White County High School,ALL Students,278,251,90.29
+567,System,754,ALL,White County,All Schools,ALL Students,278,251,90.29
+568,School,755,112,Whitfield County,Coahulla Creek High School,ALL Students,255,235,92.16
+569,School,755,175,Whitfield County,Northwest Whitfield County High School,ALL Students,284,271,95.42
+570,School,755,212,Whitfield County,Phoenix High School,ALL Students,143,87,60.84
+571,School,755,275,Whitfield County,Southeast Whitfield County High School,ALL Students,318,298,93.71
+572,System,755,ALL,Whitfield County,All Schools,ALL Students,1001,891,89.01
+573,School,756,201,Wilcox County,Wilcox County High School,ALL Students,89,82,92.13
+574,System,756,ALL,Wilcox County,All Schools,ALL Students,89,82,92.13
+575,School,757,110,Wilkes County,Washington-Wilkes Comprehensive High School,ALL Students,104,87,83.65
+576,System,757,ALL,Wilkes County,All Schools,ALL Students,104,87,83.65
+577,School,758,3050,Wilkinson County,Wilkinson County High School,ALL Students,89,86,96.63
+578,System,758,ALL,Wilkinson County,All Schools,ALL Students,89,86,96.63
+579,School,759,176,Worth County,Worth County High School,ALL Students,208,174,83.65
+580,School,759,197,Worth County,Worth County Achievement Center,ALL Students,Too Few Students,Too Few Students,Too Few Students
+581,System,759,ALL,Worth County,All Schools,ALL Students,222,179,80.63
+582,School,761,106,Atlanta Public Schools,G.W. Carver High School Early College,ALL Students,133,122,91.73
+583,School,761,182,Atlanta Public Schools,Benjamin E. Mays High School,ALL Students,296,249,84.12
+584,School,761,186,Atlanta Public Schools,Maynard Jackson High School,ALL Students,354,314,88.7
+585,School,761,192,Atlanta Public Schools,North Atlanta High School,ALL Students,542,486,89.67
+586,School,761,207,Atlanta Public Schools,Hillside Conant School,ALL Students,Too Few Students,Too Few Students,Too Few Students
+587,School,761,212,Atlanta Public Schools,Kipp Atlanta Collegiate Charter School,ALL Students,191,176,92.15
+588,School,761,315,Atlanta Public Schools,Booker T. Washington High School,ALL Students,246,182,73.98
+589,School,761,403,Atlanta Public Schools,Hank Aaron New Beginnings Academy,ALL Students,28,0,0
+590,School,761,415,Atlanta Public Schools,Atlanta Classical Academy,ALL Students,51,49,96.08
+591,School,761,515,Atlanta Public Schools,Charles Drew Charter JA/SR Academy,ALL Students,122,120,98.36
+592,School,761,1409,Atlanta Public Schools,D. M. Therrell High School,ALL Students,214,184,85.98
+593,School,761,1410,Atlanta Public Schools,Corretta Scott King Young Womens' Leadership Academy,ALL Students,50,50,100
+594,School,761,1411,Atlanta Public Schools,B.E.S.T Academy,ALL Students,27,26,96.3
+595,School,761,1412,Atlanta Public Schools,South Atlanta High School,ALL Students,186,157,84.41
+596,School,761,1413,Atlanta Public Schools,Carver High School,ALL Students,93,71,76.34
+597,School,761,4058,Atlanta Public Schools,Frederick Douglass High School,ALL Students,272,169,62.13
+598,School,761,4560,Atlanta Public Schools,Midtown High School,ALL Students,389,336,86.38
+599,System,761,ALL,Atlanta Public Schools,All Schools,ALL Students,3203,2691,84.01
+600,School,763,201,Bremen City,Bremen High School,ALL Students,185,181,97.84
+601,System,763,ALL,Bremen City,All Schools,ALL Students,185,181,97.84
+602,School,764,191,Buford City,Buford High School,ALL Students,402,386,96.02
+603,System,764,ALL,Buford City,All Schools,ALL Students,402,386,96.02
+604,School,765,3050,Calhoun City,Calhoun High School,ALL Students,301,300,99.67
+605,System,765,ALL,Calhoun City,All Schools,ALL Students,301,300,99.67
+606,School,766,1050,Carrollton City,Carrollton High School,ALL Students,445,411,92.36
+607,System,766,ALL,Carrollton City,All Schools,ALL Students,445,411,92.36
+608,School,767,2050,Cartersville City,Cartersville High School,ALL Students,373,333,89.28
+609,System,767,ALL,Cartersville City,All Schools,ALL Students,373,333,89.28
+610,School,769,211,Chickamauga City,Gordon Lee High School,ALL Students,108,106,98.15
+611,System,769,ALL,Chickamauga City,All Schools,ALL Students,108,106,98.15
+612,School,771,112,Commerce City,Commerce High School,ALL Students,114,109,95.61
+613,System,771,ALL,Commerce City,All Schools,ALL Students,114,109,95.61
+614,School,772,378,Dalton Public Schools,The Dalton Academy,ALL Students,121,88,72.73
+615,School,772,4050,Dalton Public Schools,Dalton High School,ALL Students,495,449,90.71
+616,System,772,ALL,Dalton Public Schools,All Schools,ALL Students,698,548,78.51
+617,School,773,3050,City Schools of Decatur,Decatur High School,ALL Students,414,400,96.62
+618,System,773,ALL,City Schools of Decatur,All Schools,ALL Students,414,400,96.62
+619,School,774,211,Dublin City,Dublin High School,ALL Students,106,102,96.23
+620,School,774,412,Dublin City,Moore Street Facility,ALL Students,26,24,92.31
+621,System,774,ALL,Dublin City,All Schools,ALL Students,132,126,95.45
+622,School,776,3050,Gainesville City,Gainesville High School,ALL Students,571,485,84.94
+623,System,776,ALL,Gainesville City,All Schools,ALL Students,571,485,84.94
+624,School,779,174,Jefferson City,Jefferson High School,ALL Students,295,285,96.61
+625,System,779,ALL,Jefferson City,All Schools,ALL Students,295,285,96.61
+626,School,781,101,Marietta City,Marietta High School ,ALL Students,624,535,85.74
+627,School,781,207,Marietta City,George W. Hartmann Center,ALL Students,Too Few Students,Too Few Students,Too Few Students
+628,System,781,ALL,Marietta City,All Schools,ALL Students,624,535,85.74
+629,School,784,111,Pelham City,Pelham High School,ALL Students,93,76,81.72
+630,System,784,ALL,Pelham City,All Schools,ALL Students,93,76,81.72
+631,School,785,193,Rome City,Rome High School,ALL Students,457,416,91.03
+632,System,785,ALL,Rome City,All Schools,ALL Students,457,416,91.03
+633,School,786,300,Social Circle City,Social Circle High School,ALL Students,127,119,93.7
+634,System,786,ALL,Social Circle City,All Schools,ALL Students,127,119,93.7
+635,School,789,4052,Thomasville City,Thomasville High School,ALL Students,208,172,82.69
+636,System,789,ALL,Thomasville City,All Schools,ALL Students,208,172,82.69
+637,School,791,301,Trion City,Trion High School,ALL Students,90,89,98.89
+638,System,791,ALL,Trion City,All Schools,ALL Students,90,89,98.89
+639,School,792,273,Valdosta City,Valdosta High School,ALL Students,508,484,95.28
+640,System,792,ALL,Valdosta City,All Schools,ALL Students,508,484,95.28
+641,School,793,273,Vidalia City,Vidalia Comprehensive High School,ALL Students,192,180,93.75
+642,System,793,ALL,Vidalia City,All Schools,ALL Students,192,180,93.75
+643,School,799,1893,State Schools,Atlanta Area School for the Deaf,ALL Students,Too Few Students,Too Few Students,Too Few Students
+644,School,799,1894,State Schools,Georgia Academy for the Blind,ALL Students,Too Few Students,Too Few Students,Too Few Students
+645,School,799,1895,State Schools,Georgia School for the Deaf,ALL Students,Too Few Students,Too Few Students,Too Few Students
+646,System,799,ALL,State Schools,All Schools,ALL Students,24,10,41.67
+647,School,891,104,Department of Juvenile Justice,Atlanta Youth Detention Center,ALL Students,18,3,16.67
+648,School,891,298,Department of Juvenile Justice,Augusta Youth Development Campus,ALL Students,24,2,8.33
+649,School,891,405,Department of Juvenile Justice,Muscogee Youth Development Center,ALL Students,25,3,12
+650,School,891,598,Department of Juvenile Justice,Macon Youth Development Campus,ALL Students,15,3,20
+651,School,891,898,Department of Juvenile Justice,Eastman Youth Development Campus,ALL Students,17,3,17.65
+652,School,891,4199,Department of Juvenile Justice,Millegeville ITU,ALL Students,Too Few Students,Too Few Students,Too Few Students
+653,System,891,ALL,Department of Juvenile Justice,All Schools,ALL Students,127,18,14.17
+654,School,7820108,108,State Charter Schools- Mountain Education Charter High School,Mountain Education Charter High School,ALL Students,1601,241,15.05
+655,System,7820108,ALL,State Charter Schools- Mountain Education Charter High School,All Schools,ALL Students,1601,241,15.05
+656,School,7820120,120,State Charter Schools- Georgia Cyber Academy,Georgia Cyber Academy,ALL Students,767,512,66.75
+657,System,7820120,ALL,State Charter Schools- Georgia Cyber Academy,All Schools,ALL Students,767,512,66.75
+658,School,7820412,412,State Charter Schools- Georgia Connections Academy,Georgia Connections Academy,ALL Students,723,445,61.55
+659,System,7820412,ALL,State Charter Schools- Georgia Connections Academy,All Schools,ALL Students,723,445,61.55
+660,School,7820613,613,State Charter Schools- Foothills Charter High School (Central Office - Athens),Foothills Charter High School (Central Office - Athens),ALL Students,1386,97,7
+661,System,7820613,ALL,State Charter Schools- Foothills Charter High School (Central Office - Athens),All Schools,ALL Students,1386,97,7
+662,School,7820616,616,State Charter Schools- Georgia School for Innovation and the Classics,Georgia School for Innovation and the Classics,ALL Students,36,29,80.56
+663,System,7820616,ALL,State Charter Schools- Georgia School for Innovation and the Classics,All Schools,ALL Students,36,29,80.56
+664,School,7820618,618,State Charter Schools- Coastal Plains Charter High School,Coastal Plains Charter High School,ALL Students,998,161,16.13
+665,System,7820618,ALL,State Charter Schools- Coastal Plains Charter High School,All Schools,ALL Students,998,161,16.13
+666,School,7830103,103,State Charter Schools II- Statesboro STEAM Academy,Statesboro STEAM Academy,ALL Students,20,19,95
+667,System,7830103,ALL,State Charter Schools II- Statesboro STEAM Academy,All Schools,ALL Students,20,19,95
+668,School,7830210,210,State Charter Schools II- Pataula Charter Academy,Pataula Charter Academy,ALL Students,46,42,91.3
+669,System,7830210,ALL,State Charter Schools II- Pataula Charter Academy,All Schools,ALL Students,46,42,91.3
+670,School,7830310,310,State Charter Schools II- Fulton Leadership Academy,Fulton Leadership Academy,ALL Students,Too Few Students,Too Few Students,Too Few Students
+671,System,7830310,ALL,State Charter Schools II- Fulton Leadership Academy,All Schools,ALL Students,Too Few Students,Too Few Students,Too Few Students
+672,School,7830623,623,State Charter Schools II- Academy For Classical Education,Academy For Classical Education,ALL Students,112,112,100
+673,System,7830623,ALL,State Charter Schools II- Academy For Classical Education,All Schools,ALL Students,112,112,100
+674,School,7830626,626,State Charter Schools II- Furlow Charter School,Furlow Charter School,ALL Students,29,24,82.76
+675,System,7830626,ALL,State Charter Schools II- Furlow Charter School,All Schools,ALL Students,29,24,82.76
+676,School,7830630,630,State Charter Schools II- Baconton Community Charter School,Baconton Community Charter School,ALL Students,54,52,96.3
+677,System,7830630,ALL,State Charter Schools II- Baconton Community Charter School,All Schools,ALL Students,54,52,96.3
+678,School,7830634,634,State Charter Schools II- Georgia Fugees Academy Charter School,Georgia Fugees Academy Charter School,ALL Students,Too Few Students,Too Few Students,Too Few Students
+679,System,7830634,ALL,State Charter Schools II- Georgia Fugees Academy Charter School,All Schools,ALL Students,Too Few Students,Too Few Students,Too Few Students
+680,State,ALL,ALL,All Systems,All Schools,ALL Students,133280,112031,84.06

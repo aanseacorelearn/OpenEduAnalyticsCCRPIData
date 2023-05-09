@@ -1,0 +1,271 @@
+{
+	"name": "2_ingest_contoso_v0p2",
+	"properties": {
+		"activities": [
+			{
+				"name": "land_metadata_from_URL",
+				"type": "ExecutePipeline",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "land_metadata_from_URL",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/metadata.csv",
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"sinkPath": "contoso/v0.1"
+					}
+				}
+			},
+			{
+				"name": "ingest_contentMasteryBySubgroup",
+				"type": "ExecutePipeline",
+				"dependsOn": [
+					{
+						"activity": "land_metadata_from_URL",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "ingest",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"entityPath": "contoso/v0.1/contentMasteryBySubgroup",
+						"primaryKey": "id"
+					}
+				}
+			},
+			{
+				"name": "ingest_readinessIndicatorsbySubgroup",
+				"type": "ExecutePipeline",
+				"dependsOn": [
+					{
+						"activity": "land_metadata_from_URL",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "ingest",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"entityPath": "contoso/v0.1/readinessIndicatorsbySubgroup",
+						"primaryKey": "id"
+					}
+				}
+			},
+			{
+				"name": "ingest_progressTowardsEngLangProfibySubgr",
+				"type": "ExecutePipeline",
+				"dependsOn": [
+					{
+						"activity": "land_metadata_from_URL",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "ingest",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"entityPath": "contoso/v0.1/progressTowardsEngLangProfibySubgr",
+						"primaryKey": "id"
+					}
+				}
+			},
+			{
+				"name": "ingest_demographics",
+				"type": "ExecutePipeline",
+				"dependsOn": [
+					{
+						"activity": "land_metadata_from_URL",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "ingest",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"entityPath": "contoso/v0.1/demographics",
+						"primaryKey": "id"
+					}
+				}
+			},
+			{
+				"name": "ingest_graduationRatesbySubgroup",
+				"type": "ExecutePipeline",
+				"dependsOn": [
+					{
+						"activity": "land_metadata_from_URL",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "ingest",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"entityPath": "contoso/v0.1/graduationRatesbySubgroup",
+						"primaryKey": "id"
+					}
+				}
+			},
+			{
+				"name": "ingest_cohortGraduRateStDistSchoolSubgrp",
+				"type": "ExecutePipeline",
+				"dependsOn": [
+					{
+						"activity": "land_metadata_from_URL",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "ingest",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"entityPath": "contoso/v0.1/cohortGraduRateStDistSchoolSubgrp",
+						"primaryKey": "id"
+					}
+				}
+			},
+			{
+				"name": "create_sql_db",
+				"type": "ExecutePipeline",
+				"dependsOn": [
+					{
+						"activity": "ingest_contentMasteryBySubgroup",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					},
+					{
+						"activity": "ingest_readinessIndicatorsbySubgroup",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					},
+					{
+						"activity": "ingest_progressTowardsEngLangProfibySubgr",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					},
+					{
+						"activity": "ingest_demographics",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					},
+					{
+						"activity": "ingest_graduationRatesbySubgroup",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					},
+					{
+						"activity": "ingest_cohortGraduRateStDistSchoolSubgrp",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "create_sql_db",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"stage": "stage2",
+						"datasetPath": "Ingested/contoso/v0.1",
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"dbName": "sdb_dev_s2i_contoso_v0p1"
+					}
+				}
+			}
+		],
+		"parameters": {
+			"workspace": {
+				"type": "string",
+				"defaultValue": "dev"
+			},
+			"defaultFilename": {
+				"type": "string",
+				"defaultValue": "part1.csv"
+			}
+		},
+		"folder": {
+			"name": "contoso_v0p2"
+		},
+		"annotations": [],
+		"lastPublishTime": "2022-11-15T20:46:13Z"
+	},
+	"type": "Microsoft.Synapse/workspaces/pipelines"
+}
