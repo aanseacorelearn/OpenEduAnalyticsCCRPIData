@@ -14,7 +14,7 @@
 					},
 					"waitOnCompletion": true,
 					"parameters": {
-						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/contentMasteryBySubgroup/part1.csv",
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIData/main/framework/test_data/contoso_sis/2021/contentMasteryBySubgroup/part1.csv",
 						"workspace": {
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
@@ -40,7 +40,7 @@
 					},
 					"waitOnCompletion": true,
 					"parameters": {
-						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/readinessIndicatorsbySubgroup/part1.csv",
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIData/main/framework/test_data/contoso_sis/2021/readinessIndicatorsbySubgroup/part1.csv",
 						"workspace": {
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
@@ -66,7 +66,7 @@
 					},
 					"waitOnCompletion": true,
 					"parameters": {
-						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/progressTowardsEngLangProfibySubgr/part1.csv",
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIData/main/framework/test_data/contoso_sis/2021/progressTowardsEngLangProfibySubgr/part1.csv",
 						"workspace": {
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
@@ -92,7 +92,7 @@
 					},
 					"waitOnCompletion": true,
 					"parameters": {
-						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/demographics/part1.csv",
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIData/main/framework/test_data/contoso_sis/2021/demographics/part1.csv",
 						"workspace": {
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
@@ -118,7 +118,7 @@
 					},
 					"waitOnCompletion": true,
 					"parameters": {
-						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/graduationRatesbySubgroup/part1.csv",
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIData/main/framework/test_data/contoso_sis/2021/graduationRatesbySubgroup/part1.csv",
 						"workspace": {
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
@@ -144,7 +144,7 @@
 					},
 					"waitOnCompletion": true,
 					"parameters": {
-						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/cohortGraduRateStDistSchoolSubgrp/part1.csv",
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIData/main/framework/test_data/contoso_sis/2021/cohortGraduRateStDistSchoolSubgrp/part1.csv",
 						"workspace": {
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"

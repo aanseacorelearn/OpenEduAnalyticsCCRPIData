@@ -110,7 +110,7 @@
 		"parameters": {
 			"URL": {
 				"type": "string",
-				"defaultValue": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIdata/main/framework/test_data/contoso_sis/2021/contentMasteryBySubgroup/part1.csv"
+				"defaultValue": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalyticsCCRPIData/main/framework/test_data/contoso_sis/2021/contentMasteryBySubgroup/part1.csv"
 			},
 			"workspace": {
 				"type": "string",
