@@ -20,7 +20,7 @@ Set up Microsoft Education Insights module with test data<br/>
 • Run the setup script like this (substitute "mysynapseworkspacename" with your synapse workspace name, which must be less than 13 characters and can only contain letters and numbers - e.g. syn-oea-workspacename):<br/>
 ./module_Microsoft_Education_Insights_v0.1/setup.sh mysynapseworkspacename) to install this package into your own environment.<br/><br/>
 
-After this, both setups follow the below steps<br/>
+After setup, both Education Insights and Contoso sis modules then follow the below steps<br/>
 1)	Trigger 0_main pipeline file for Contoso module with test data landing
 2)	Trigger 0_main pipeline file for insights module with test data landing
 3)	The Power BI .pbix files can be found in the below link, <br/>
