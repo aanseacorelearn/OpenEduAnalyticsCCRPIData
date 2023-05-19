@@ -1,4 +1,4 @@
-Set up for OEA with Contoso module with custom data<br/>
+Set up for OEA with Contoso SIS module with CCRPI data<br/>
 You can setup this fully functional reference architecture (which includes test data sets for basic examples of usage) in 3 steps:<br/>
 1.	Open cloud shell in your Azure subscription (use ctrl+click on the button below to open in a new page)<br/>
  [![Launch Cloud Shell](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/launchcloudshell.png "Launch Cloud Shell")](https://shell.azure.com/bash)<br>
@@ -21,7 +21,7 @@ Set up Microsoft Education Insights module with test data<br/>
 ./module_Microsoft_Education_Insights_v0.1/setup.sh mysynapseworkspacename) to install this package into your own environment.<br/><br/>
 
 After setup, both Education Insights and Contoso sis modules then follow the below steps<br/>
-1)	Trigger 0_main pipeline file for Contoso module with test data landing
+1)	Trigger 0_main pipeline file for Contoso module with CCRPI data landing
 2)	Trigger 0_main pipeline file for insights module with test data landing
 3)	The Power BI .pbix files can be found in the below link, <br/>
     https://github.com/aanseacorelearn/OpenEduAnalyticsCCRPIData/tree/main/powerbi<br/>
@@ -35,6 +35,6 @@ Few points to consider
 3. Exported power bi reports and they are available in powerbi folder
 4. Have created two modules Microsoft Education Insights Module and Contoso SIS
 5. Insights module has the test data that which is produced after running the data pipelines
-6. Consoso SIS has the custom Georgia school data which is used for creating power bi reports
+6. Consoso SIS has the custom CCRPI data which is used for creating power bi reports
 7. Genrated around 3 reports for Insights module which has test data
 8. Genrated around 5 reports for Contoso SIS data lake which has the custom data from Georiga school district
