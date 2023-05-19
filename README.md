@@ -28,3 +28,13 @@ After setup, both Education Insights and Contoso sis modules then follow the bel
 	Import the two files below into the Power BI desktop and publish them in the workspace.<br/>
     -	Contoso Reports.pbix<br/>
     -	Insights Module Report.pbix<br/>
+
+Few points to consider
+1. Used OEA Version 0.7 for the assessment
+2. Exported our synapse workspace and placed it in framework folder
+3. Exported power bi reports and they are available in powerbi folder
+4. Have created two modules Microsoft Education Insights Module and Contoso SIS
+5. Insights module has the test data that which is produced after running the data pipelines
+6. Consoso SIS has the custom Georgia school data which is used for creating power bi reports
+7. Genrated around 3 reports for Insights module which has test data
+8. Genrated around 5 reports for Contoso SIS data lake which has the custom data from Georiga school district
