@@ -1,7 +1,8 @@
 Set up for OEA with Contoso module with custom data
 You can setup this fully functional reference architecture (which includes test data sets for basic examples of usage) in 3 steps:
 1.	Open cloud shell in your Azure subscription (use ctrl+click on the button below to open in a new page)
- 
+ [![Launch Cloud Shell](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/launchcloudshell.png "Launch Cloud Shell")](https://shell.azure.com/bash)
+
 2.	Download the OEA framework setup script and framework assets to your Azure clouddrive
 cd clouddrive
 git clone https://github.com/aanseacorelearn/OpenEduAnalyticsCCRPIData.git oea
@@ -11,7 +12,7 @@ git clone https://github.com/aanseacorelearn/OpenEduAnalyticsCCRPIData.git oea
 
 Set up Microsoft Education Insights module with test data
 •	Open cloud shell in your Azure subscription (use ctrl+click on the button below to open in a new page)
- 
+    [![Launch Cloud Shell](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/launchcloudshell.png "Launch Cloud Shell")](https://shell.azure.com/bash)
 •	Download the module release to your Azure clouddrive
 1.	cd clouddrive
 2.	wget https://github.com/microsoft/OpenEduAnalytics/releases/download/module_Microsoft_Education_Insights_v0.1/module_Microsoft_Education_Insights_v0.1.zip
@@ -26,3 +27,4 @@ https://github.com/aanseacorelearn/OpenEduAnalyticsCCRPIData/tree/main/powerbi
 		Import the two files below into the Power BI desktop and publish them in the workspace.
 -	Contoso Reports.pbix
 -	Insights Module Report.pbix
+
