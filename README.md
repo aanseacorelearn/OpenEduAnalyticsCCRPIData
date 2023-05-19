@@ -1,6 +1,6 @@
 Set up for OEA with Contoso module with custom data<br/>
 You can setup this fully functional reference architecture (which includes test data sets for basic examples of usage) in 3 steps:<br/>
-1.	Open cloud shell in your Azure subscription (use ctrl+click on the button below to open in a new page)<br/><br/>
+1.	Open cloud shell in your Azure subscription (use ctrl+click on the button below to open in a new page)<br/>
  [![Launch Cloud Shell](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/launchcloudshell.png "Launch Cloud Shell")](https://shell.azure.com/bash)<br>
 
 2.	Download the OEA framework setup script and framework assets to your Azure clouddrive
@@ -11,8 +11,8 @@ git clone https://github.com/aanseacorelearn/OpenEduAnalyticsCCRPIData.git oea
 ./oea/setup.sh [mysuffix]<br/><br/>
 
 Set up Microsoft Education Insights module with test data<br/>
-• Open cloud shell in your Azure subscription (use ctrl+click on the button below to open in a new page)<br/><br/>
-    [![Launch Cloud Shell](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/launchcloudshell.png "Launch Cloud Shell")](https://shell.azure.com/bash)<br>
+• Open cloud shell in your Azure subscription (use ctrl+click on the button below to open in a new page)<br/>
+    [![Launch Cloud Shell](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/launchcloudshell.png "Launch Cloud Shell")](https://shell.azure.com/bash)<br/>
 • Download the module release to your Azure clouddrive<br/>
 1.	cd clouddrive
 2.	wget https://github.com/microsoft/OpenEduAnalytics/releases/download/module_Microsoft_Education_Insights_v0.1/module_Microsoft_Education_Insights_v0.1.zip
