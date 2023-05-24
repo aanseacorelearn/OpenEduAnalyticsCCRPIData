@@ -4,6 +4,7 @@ We had to use the spark pool for each of the notebooks to make the pipeline succ
 3. When we trigger the insights module by using 0_main_insights in that process, it runs 2_ingest_insights after completing the landing process. In the 2_ingest_insights pipeline by default, it is using "spark3p2med" as sparkpool. Because of we have used "spark3p2sm" for the trigger Contoso module. We need to use the same for the education insights module we need to change sparkpool "spark3p2med" to "spark3p2sm". otherwise it will show the status queued while the pipeline is triggered.
 
 Change in pipeline 2_ingest_insights
+
 "sparkPool": {
     "referenceName": "spark3p2med",
     "type": "BigDataPoolReference"
